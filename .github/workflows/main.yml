@@ -2,7 +2,7 @@ name: Get Feed
 
 on:
   schedule:
-    - cron: "30 4 * * *" # 4:30 uct
+    - cron: "30 2 * * *" # 2:30 uct
 
 jobs:
   get-feed:
